@@ -1,0 +1,7 @@
+name: BTACore-PMMP
+main: BTA\Core
+api: [3.0.0]
+version: 0.0.1-BETA
+authors: ["HyGlobalHD", "BackToAction"]
+description: Still In Test
+
