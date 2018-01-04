@@ -24,5 +24,5 @@ Note: Still In Devs And Test
 
 
 ### Contributer Note: Please Make An Issues If There Any Problems, 
-### Note: This Was Suppose To Be Realesed In MCPE v.0.14.0 But Due I Had A Major 'Exam' To Take Care Off.
+### Note: This Was Suppose To Be Release In MCPE v.0.14.0 But Due I Had A Major 'Exam' To Take Care Off.
 
