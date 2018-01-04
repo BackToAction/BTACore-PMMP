@@ -23,5 +23,6 @@ Note: Still In Devs And Test
 - [Events ( In-Progress)](https://github.com/BackToAction/BTACore-PMMP/blob/master/src/BTA/Core.php#L374)
 
 
-### Contributer Note: Please Make An Issues If There Any Problems, This Was Suppose To Realese When MCPE 0.14.0 But Because I Had A Major 'Exam' To Take Off.
+### Contributer Note: Please Make An Issues If There Any Problems, 
+### Note: This Was Suppose To Be Realesed In MCPE v.0.14.0 But Due I Had A Major 'Exam' To Take Care Off.
 
