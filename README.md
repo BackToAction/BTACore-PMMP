@@ -16,7 +16,7 @@ Note: Still In Devs And Test
 
 # API
 
-- [Health API [ In Progress -EVENT DEATH ]](https://github.com/BackToAction/BTACore-PMMP/blob/master/src/BTA/Core.php#L149)
+- [Health API [ In Progress -EVENT DEATH ]](https://github.com/BackToAction/BTACore-PMMP/blob/master/src/BTA/Core.php#L194)
 - [Rank API](https://github.com/BackToAction/BTACore-PMMP/blob/master/src/BTA/Core.php#L245)
 - [Level API](https://github.com/BackToAction/BTACore-PMMP/blob/master/src/BTA/Core.php#L282)
 - [Currency API](https://github.com/BackToAction/BTACore-PMMP/blob/master/src/BTA/Core.php#L342)
